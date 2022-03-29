@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Cristian",
+        "secondName": "Ceballos",
+        "email": "cristian@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Emanuel",
+        "secondName": "Castro",
+        "email": "Ec@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Emilse",
+        "secondName": "Castaño",
+        "email": "emilse@gmail.com"
+    },
+    {
+        "id": 4,
+        "name": "Onofre",
+        "secondName": "Zapata",
+        "email": "OnoZa@gmail.com"
+    },
+    {
+        "id": 5,
+        "name": "Beto",
+        "secondName": "Cuebas",
+        "email": "BetoMucho@gmail.com"
+    }
+]
